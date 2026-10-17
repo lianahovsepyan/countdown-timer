@@ -1,10 +1,7 @@
-# Countdown Timer (Python)
+# Countdown Timer
 
-A simple terminal-based countdown timer written in Python for TUMO Labs Python project.
+A simple Python-based terminal countdown timer created for TUMO Labs.
 
 ## How to Run
-1. Run the script:
-   ```bash
-   python timer.py
-   ```
-2. Enter the number of seconds when prompted.
+1. Run the Python script: python timer.py
+2. Enter the duration in seconds.
